@@ -1,0 +1,185 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairColor"><param name="Local" value="structCorsairColor.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="structCorsairColor.html#a7f2d162ecf1e1dc739b0958feee6b5fe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="structCorsairColor.html#a02575cec633a8ab026c346bd6fa3a796"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="structCorsairColor.html#a32d4774780aacf3516adf5f8105f57a6"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairEffect"><param name="Local" value="structCorsairEffect.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="effectId"><param name="Local" value="structCorsairEffect.html#afaddf189d0d4ad4fecb7f43d975b2e58"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="freeFrameFunction"><param name="Local" value="structCorsairEffect.html#a0dc53428b9decc34dbb46d09ebe66aa0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFrameFunction"><param name="Local" value="structCorsairEffect.html#a48b5c85f1d56b499111c5686a6749e2e"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairFrame"><param name="Local" value="structCorsairFrame.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ledsColors"><param name="Local" value="structCorsairFrame.html#a7b06f3521842da0a0241f6d74db24c25"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="structCorsairFrame.html#ac19d0b9b21fe6b747f12cd91a9d663c0"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLightingEffectColorOptions"><param name="Local" value="structCorsairLightingEffectColorOptions.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="color1"><param name="Local" value="structCorsairLightingEffectColorOptions.html#a6b860e5fac10a0301118d054973bce00"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="color2"><param name="Local" value="structCorsairLightingEffectColorOptions.html#aa2626b556b00257c4fce0b571f2c1b8f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mode"><param name="Local" value="structCorsairLightingEffectColorOptions.html#afdcb9f315736f416e2a3607eedb0b256"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structure Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Fields"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_68267d1309a1af8e8297ef4c3efbcdba.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LFX"><param name="Local" value="dir_aeb31daf0129190aa5eff25d7d459ef3.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLayers"><param name="Local" value="dir_e4531269a46f5eb0fb32b6249448a11a.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLayers.h"><param name="Local" value="CorsairLayers_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairSetLedsColorsAsyncType"><param name="Local" value="CorsairLayers_8h.html#a96c3c550a895f3d3e2460ea41a1a837d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="LayerGuid"><param name="Local" value="CorsairLayers_8h.html#a015be699514e448c166ee5f53aa6307d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLayersInitialize"><param name="Local" value="CorsairLayers_8h.html#a3323245809efabc33da597f8c7942461"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLayersPlayEffect"><param name="Local" value="CorsairLayers_8h.html#a3ac9c1fac7d6a46e66fb3fe02240e250"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLayersStopEffect"><param name="Local" value="CorsairLayers_8h.html#a71562196aff7d147a278e609f11bf173"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLayersGlobal.h"><param name="Local" value="CorsairLayersGlobal_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CORSAIRLAYERS_EXPORT"><param name="Local" value="CorsairLayersGlobal_8h.html#a0947819b209245e38a7d5d037155b211"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFX"><param name="Local" value="dir_7464321a44e99a56743177ffb168c554.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFX.h"><param name="Local" value="CorsairLFX_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXAddRampToGradientEffect"><param name="Local" value="CorsairLFX_8h.html#aafd19f5a29aff785aa7b4b82060d6c1b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXCreateGradientEffect"><param name="Local" value="CorsairLFX_8h.html#a91feebf89c7b20871420b6570d93b6f1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXCreateProgressBarEffect"><param name="Local" value="CorsairLFX_8h.html#aef305b19fdd9831a8d18f0d12f72e524"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXFreeFrame"><param name="Local" value="CorsairLFX_8h.html#aac6f64cf2bb17d912e79df164105419e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXGetFrame"><param name="Local" value="CorsairLFX_8h.html#acd5004ccd45d398c69bd96c505d58339"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXHideProgressBar"><param name="Local" value="CorsairLFX_8h.html#a1c60f1aae2164c564460bd77d665138c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXSetLedPositions"><param name="Local" value="CorsairLFX_8h.html#a2ebff78f2736e9941cf9a4fbeda41ade"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXSetProgress"><param name="Local" value="CorsairLFX_8h.html#a8bb4aa96df24e6b9a7e5bd690222c567"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLFXGlobal.h"><param name="Local" value="CorsairLFXGlobal_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CORSAIRLFX_EXPORT"><param name="Local" value="CorsairLFXGlobal_8h.html#aef84487a5c72406bcd6cfb2fabfa10e1"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFX"><param name="Local" value="dir_71d428a75533bdd299cd2f576fd9b4f9.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFX.h"><param name="Local" value="CUELFX_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLightingEffectColorOptions"><param name="Local" value="structCorsairLightingEffectColorOptions.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="color1"><param name="Local" value="structCorsairLightingEffectColorOptions.html#a6b860e5fac10a0301118d054973bce00"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="color2"><param name="Local" value="structCorsairLightingEffectColorOptions.html#aa2626b556b00257c4fce0b571f2c1b8f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="mode"><param name="Local" value="structCorsairLightingEffectColorOptions.html#afdcb9f315736f416e2a3607eedb0b256"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLightingEffectCircularDirection"><param name="Local" value="CUELFX_8h.html#a40ea5c362fb9447a7af836c7d125740f"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLECD_Clockwise"><param name="Local" value="CUELFX_8h.html#a40ea5c362fb9447a7af836c7d125740fa61d1bbf8f2489ba7491ea8dac6e148a7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLECD_CounterClockwise"><param name="Local" value="CUELFX_8h.html#a40ea5c362fb9447a7af836c7d125740fa4937c3fe85c5c86f69505aa5953e11f0"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLightingEffectColorMode"><param name="Local" value="CUELFX_8h.html#a886c851fcf46cd03563a1624c0c81e54"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLECM_Random"><param name="Local" value="CUELFX_8h.html#a886c851fcf46cd03563a1624c0c81e54aa3013b4235fab6c35ccf7181b41ebfe4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLECM_Alternating"><param name="Local" value="CUELFX_8h.html#a886c851fcf46cd03563a1624c0c81e54a95bab4f61abc6feea862294e791a1ea7"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLightingEffectLinearDirection"><param name="Local" value="CUELFX_8h.html#a84c6f3170a06ae618a594b9422b684f1"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLELD_Left"><param name="Local" value="CUELFX_8h.html#a84c6f3170a06ae618a594b9422b684f1a3f12f4a8bf16bbab730c4e85ce7b2792"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLELD_Right"><param name="Local" value="CUELFX_8h.html#a84c6f3170a06ae618a594b9422b684f1a9319a56870f4171593c818f862e0e179"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLELD_Up"><param name="Local" value="CUELFX_8h.html#a84c6f3170a06ae618a594b9422b684f1a107b24b284cd3420da83b639c4978e68"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLELD_Down"><param name="Local" value="CUELFX_8h.html#a84c6f3170a06ae618a594b9422b684f1a7665b542fc1c78af1125dfb1a668fcbd"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairLightingEffectSpeed"><param name="Local" value="CUELFX_8h.html#af4ecffab5b0415acf548db733f6bbdd9"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLES_Slow"><param name="Local" value="CUELFX_8h.html#af4ecffab5b0415acf548db733f6bbdd9a2ead791336585a06198fa219ed0711bd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLES_Medium"><param name="Local" value="CUELFX_8h.html#af4ecffab5b0415acf548db733f6bbdd9ac05e32f847e67f9519afd9eec7b29b07"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLES_Fast"><param name="Local" value="CUELFX_8h.html#af4ecffab5b0415acf548db733f6bbdd9a1ca36142fa7003329f051a23b2ffe911"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXAddPointToEffect"><param name="Local" value="CUELFX_8h.html#ad5a3a88873807514447917e86e32e572"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateAlternatingRapidBlinkEffect"><param name="Local" value="CUELFX_8h.html#ad1c96fe5d468fd85e822f20313b0c0bf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateBreatheEffect"><param name="Local" value="CUELFX_8h.html#a1519b34d3bb9ae196b894cf8b789620c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateColorPulseEffect"><param name="Local" value="CUELFX_8h.html#a7500b8955496b892bffcbf16f17b54db"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateColorShiftEffect"><param name="Local" value="CUELFX_8h.html#aa1916d18006f1daf9a8a4df51ed7db31"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateColorWaveEffect"><param name="Local" value="CUELFX_8h.html#a8d91948e5a7745d04d733c6471a45897"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateDoubleBlinkEffect"><param name="Local" value="CUELFX_8h.html#a2e67415d11b1be380db75e6588df2f83"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateHeartbeatEffect"><param name="Local" value="CUELFX_8h.html#a72f1f1b17b98e557763fccaacefc42f9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateOffBeatEffect"><param name="Local" value="CUELFX_8h.html#ad8d9a0d14005d0d57903174cdaef687f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateRainbowPulseEffect"><param name="Local" value="CUELFX_8h.html#a55b358f39d832dd3b36f33b5731a6cd2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateRainbowWaveEffect"><param name="Local" value="CUELFX_8h.html#afaed0a1b3d6c9b9fef4d1347ea0efbc4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateRainEffect"><param name="Local" value="CUELFX_8h.html#a532fe5e143c943e3ddd2069e4f392b1c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateRapidBlinkEffect"><param name="Local" value="CUELFX_8h.html#a8bec8063072fbf71b5584cec91ddb0a5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateRippleEffect"><param name="Local" value="CUELFX_8h.html#a42df25a9894729e7bb8eb00779f0f48b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateSingleBlinkEffect"><param name="Local" value="CUELFX_8h.html#a52033962ba55fce91b22aaa9327b34a9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateSlowBreatheEffect"><param name="Local" value="CUELFX_8h.html#a8fdab1b219dd32709dd3121e5eb8b3ae"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateSlowLongBreatheEffect"><param name="Local" value="CUELFX_8h.html#a822a3b9cdd7c5538244e2f08b789eb61"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateSolidColorEffect"><param name="Local" value="CUELFX_8h.html#ae9076b829f31006c215184b3dcd59247"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateSpiralRainbowEffect"><param name="Local" value="CUELFX_8h.html#a97346f3899ebbce62fec4cc4cac05778"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateVisorEffect"><param name="Local" value="CUELFX_8h.html#a9d2a8775835baa36d39e81cd6628cb0a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXCreateWaveEffect"><param name="Local" value="CUELFX_8h.html#afbd657b4eb413034fd58d483fed54906"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXFreeFrame"><param name="Local" value="CUELFX_8h.html#a185af066b06ea4172a3202fdd4b1b7fb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXGetFrame"><param name="Local" value="CUELFX_8h.html#a7363adef7ce0d8c96b8055e517353b37"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXSetLedPositions"><param name="Local" value="CUELFX_8h.html#a26a9e800e6f83726aa54e742e1d35a94"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFXGlobal.h"><param name="Local" value="CUELFXGlobal_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CUELFX_EXPORT"><param name="Local" value="CUELFXGlobal_8h.html#ab8209d283f1b1c5775bbf26568231f28"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Shared"><param name="Local" value="dir_e202c1b6a816319953291c744b4159d8.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LFX.h"><param name="Local" value="LFX_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairColor"><param name="Local" value="structCorsairColor.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="structCorsairColor.html#a7f2d162ecf1e1dc739b0958feee6b5fe"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="structCorsairColor.html#a02575cec633a8ab026c346bd6fa3a796"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="structCorsairColor.html#a32d4774780aacf3516adf5f8105f57a6"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairFrame"><param name="Local" value="structCorsairFrame.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ledsColors"><param name="Local" value="structCorsairFrame.html#a7b06f3521842da0a0241f6d74db24c25"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="structCorsairFrame.html#ac19d0b9b21fe6b747f12cd91a9d663c0"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CorsairEffect"><param name="Local" value="structCorsairEffect.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="effectId"><param name="Local" value="structCorsairEffect.html#afaddf189d0d4ad4fecb7f43d975b2e58"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="freeFrameFunction"><param name="Local" value="structCorsairEffect.html#a0dc53428b9decc34dbb46d09ebe66aa0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getFrameFunction"><param name="Local" value="structCorsairEffect.html#a48b5c85f1d56b499111c5686a6749e2e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Guid"><param name="Local" value="LFX_8h.html#abaea8c89dd9ac60f3a3c1ac088a3be3d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Globals"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Typedefs"><param name="Local" value="globals_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="globals_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerator"><param name="Local" value="globals_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

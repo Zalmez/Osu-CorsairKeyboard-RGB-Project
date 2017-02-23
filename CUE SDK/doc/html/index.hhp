@@ -1,0 +1,78 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Corsair Lighting Effects
+
+[WINDOWS]
+main="Corsair Lighting Effects","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+CorsairLayers_8h_source.html
+CorsairLayersGlobal_8h_source.html
+CorsairLFX_8h_source.html
+CorsairLFXGlobal_8h_source.html
+CUELFX_8h_source.html
+CUELFXGlobal_8h_source.html
+LFX_8h_source.html
+mainpage_8dox.html
+CorsairLayers_8h.html
+CorsairLayersGlobal_8h.html
+CorsairLFX_8h.html
+CorsairLFXGlobal_8h.html
+CUELFX_8h.html
+CUELFXGlobal_8h.html
+LFX_8h.html
+structCorsairColor.html
+structCorsairEffect.html
+structCorsairFrame.html
+structCorsairLightingEffectColorOptions.html
+dir_e4531269a46f5eb0fb32b6249448a11a.html
+dir_7464321a44e99a56743177ffb168c554.html
+dir_71d428a75533bdd299cd2f576fd9b4f9.html
+dir_aeb31daf0129190aa5eff25d7d459ef3.html
+dir_e202c1b6a816319953291c744b4159d8.html
+dir_68267d1309a1af8e8297ef4c3efbcdba.html
+index.html
+annotated.html
+classes.html
+functions.html
+functions_vars.html
+files.html
+globals.html
+globals_func.html
+globals_type.html
+globals_enum.html
+globals_eval.html
+globals_defs.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
+corsair.png
+ftv2blank.png
+ftv2doc.png
+ftv2folderclosed.png
+ftv2folderopen.png
+ftv2lastnode.png
+ftv2link.png
+ftv2mlastnode.png
+ftv2mnode.png
+ftv2node.png
+ftv2plastnode.png
+ftv2pnode.png
+ftv2vertline.png
+ftv2splitbar.png
